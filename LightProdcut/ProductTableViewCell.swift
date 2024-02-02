@@ -12,8 +12,6 @@ class ProductTableViewCell: UITableViewCell {
     
     @IBOutlet weak var ProductImageOutlet: UIImageView!
     
-    @IBOutlet weak var ProductNameOutlet: UILabel!
-    
     @IBOutlet weak var ProductDiscribeOutlet: UILabel!
     
     override func awakeFromNib() {
